@@ -3,7 +3,7 @@ var zbll_egg = {
 
     "T1": ["(U') R U R' U R U2 R' U2 R' U' R U' R' U2 R", "x D' R' U R D R2' D2 R U' R' D2 R2 x'", "R U2 R' U' R U' R2 U2 R U R' U R", "(U2) R' U2 R U R' U R2 U2 R' U' R U' R'", "(U') R U R' U R U2 R' U' R U2 R' U' R U' R'", "(U2) R U' R' U2 R U R' U2 R U R' U R U' R'", "R U2 R' U' R U' R' U R U R' U R U2 R'", "(U2) R' U2 R U R' U R U' R' U' R U' R' U2 R", "(U') R U R' U R U' R' U R' U' R2 U' R2 U2 R", "(U') R' U' R U' R' U R U' R U R2 U R2 U2 R'", "R U' R2 F R F' R U' B U' B' U' R'", "(U') R' U' R2 U R2 U R2 U2 R' U R' U R"],
     "T2": ["(U2) R U' R2 D' r U2 r' D R2 U R'","R' U R2 D r' U2 r D' R2 U' R","(U) R U R' U R U R2 D' r U2 r' D R2 U R'", "(U) R U' R2 D' r U2 r' D R2 U' R' U' R U' R'", "(U2) R U R' U2 R' D' R U R' D R2 U' R' U R U' R'", "(U) F U' R U R2 D' r U2 r' D R U' F'", "(U) R U R' U' R U R2 D' R U' R' D R U2 R U' R'", "F U R' D' r U2 r' D R2 U' R' U F'", "(U2) r U2 R2 F R F' R U2 B2 r' U' r B' r'", "(U') F' U' R' F R S' R U' B R' F' R B' U R' f", "R' U D' R U2 R' D R' U' R U2 R' U' R2", "(U2) R D U' R' U2 R D' R U R' U2 R U R2"],
-    "T3": [""],
+    "T3": ["(U2) R U' R' U2 L R U' R' U L'", "R' U R U2 L' R' U R U' L", "(U2) R' U' R2 U R' F' R U R' U' R' F R2 U' R' U' R' U R", "(U2) F' r2 U2 R' F' R U2 r' U r'", "(U2) R' U' R U' R' U2 R' D' R U' R' D R U R", "(U) R U R2 F R F' R U' R' F' U F","(U2) F U F' U R' F r U' M U2 R' F' R","F U' R' U2 R U F' R' U' R U R' U R","(U2) R' U' R U' R' U R F U' R' U2 R U F'","R' F R U2 M' U r' F' R U' F U' F'","R' U R U F' R' E R U R' D f R2 D z'","(U) F' U2 R' u' R U' R' E' R F U' R' U' R"],
     "T4": [""],
     "T5": [""],
     "T6": [""],
